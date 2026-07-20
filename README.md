@@ -23,9 +23,9 @@ I am a Process Automation Specialist at [Xentral](https://xentral.com) and part 
 
 ## Links
 
-- [stevendoerr.com](https://stevendoerr.com) — personal site and web experiments
-- [brimbreak.ai](https://brimbreak.ai) — my marketing engineering studio
-- [pedalpartypassau.de](https://pedalpartypassau.de) — the cycling club I help organize in Passau
+- [stevendoerr.com](https://stevendoerr.com): personal site and web experiments
+- [brimbreak.ai](https://brimbreak.ai): my marketing engineering studio
+- [pedalpartypassau.de](https://pedalpartypassau.de): the cycling club I help organize in Passau
 - [LinkedIn](https://www.linkedin.com/in/steven-dörr/)
 
 ## Outside work
