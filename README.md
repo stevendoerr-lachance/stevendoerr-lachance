@@ -1,21 +1,28 @@
-# Steven Dörr
+## Steven Dörr
 
-GTM engineer. I build the automation and AI layer behind marketing and sales: HubSpot, data pipelines, agents, MCP servers.
+GTM engineer at [Xentral](https://xentral.com). Based in Zagreb.
 
-Senior Automation Manager at [Xentral](https://xentral.com). German, based in Zagreb.
+I build automation for marketing and sales teams. Most of it runs on HubSpot, Python and the Claude API.
 
-### What I work on
+### Current work
 
-- **HubSpot in production.** Changed through own Python tooling: simulate first, back up, then roll out.
-- **Agents that do real work.** A website agent that qualifies leads and books demos. Outbound that reacts to intent signals, built with Clay and the Claude API.
-- **An internal AI platform.** GitHub org, starter template and MCP servers for HubSpot, Slack and Atlassian, so colleagues outside engineering can ship their own agents.
+- HubSpot workflow tooling in Python. It simulates a change, makes a backup, then applies the change.
+- AI agents. One qualifies website leads and books demos. One runs outbound from intent signals.
+- MCP servers for HubSpot, Slack and Atlassian.
 
-### Public code
+Most of this code is in private repos.
 
-Most of my work lives in private company repos. What is here:
+### Projects
 
-- [wheel-decal-designer](https://github.com/stevendoerr-lachance/wheel-decal-designer): geometry and print export for a 3D rim decal configurator, in TypeScript with tests. [Live version](https://www.stevendoerr.com/wheel-decal)
+| Repo | What it does | Stack |
+|---|---|---|
+| [yaba](https://github.com/stevendoerr-lachance/yaba) | Controls VanMoof S3/X3 and S2/X2 e-bikes over Bluetooth LE | Kotlin, Jetpack Compose |
+| [wheel-decal-designer](https://github.com/stevendoerr-lachance/wheel-decal-designer) | Geometry and print export for a 3D rim decal configurator. [Demo](https://www.stevendoerr.com/wheel-decal) | TypeScript |
 
-### Elsewhere
+### Stack
 
-[stevendoerr.com](https://stevendoerr.com) · [LinkedIn](https://www.linkedin.com/in/steven-dörr/) · [pedalpartypassau.de](https://pedalpartypassau.de), a cycling event I organized
+Python, TypeScript, Kotlin, SQL, HubSpot API, n8n, MCP
+
+### Links
+
+[stevendoerr.com](https://stevendoerr.com) · [LinkedIn](https://www.linkedin.com/in/steven-dörr/)
