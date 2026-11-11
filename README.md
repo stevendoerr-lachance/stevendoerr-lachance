@@ -6,7 +6,7 @@ Senior Automation Manager at [Xentral](https://xentral.com). German, based in Za
 
 ### What I work on
 
-- **HubSpot in production.** 100+ workflows, changed through my own Python tooling: simulate first, back up, then roll out.
+- **HubSpot in production.** Changed through own Python tooling: simulate first, back up, then roll out.
 - **Agents that do real work.** A website agent that qualifies leads and books demos. Outbound that reacts to intent signals, built with Clay and the Claude API.
 - **An internal AI platform.** GitHub org, starter template and MCP servers for HubSpot, Slack and Atlassian, so colleagues outside engineering can ship their own agents.
 
