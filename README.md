@@ -1,33 +1,21 @@
 # Steven Dörr
 
-I work on marketing automation and the infrastructure behind it: integrations, data pipelines, and internal tools that people use every day.
+GTM engineer. I build the automation and AI layer behind marketing and sales: HubSpot, data pipelines, agents, MCP servers.
 
-I am a Process Automation Specialist at [Xentral](https://xentral.com) and part of the internal AI Taskforce. Before that, I worked on BI and marketing automation for an EdTech holding and handled a complete Salesforce-to-HubSpot migration as a working student.
+Senior Automation Manager at [Xentral](https://xentral.com). German, based in Zagreb.
 
-## Work
+### What I work on
 
-- Built an internal marketing automation agent for a HubSpot setup with more than 1,100 workflows. It covers simulation, bulk changes, and backups.
-- Built MCP servers for HubSpot, Slack, Atlassian, and internal knowledge bases.
-- Set up lead qualification and outbound pipelines with Clay, Heyreach, n8n, and LLM APIs.
-- Built ETL pipelines and reporting in PostgreSQL, Coupler.io, and Looker Studio.
+- **HubSpot in production.** 100+ workflows, changed through my own Python tooling: simulate first, back up, then roll out.
+- **Agents that do real work.** A website agent that qualifies leads and books demos. Outbound that reacts to intent signals, built with Clay and the Claude API.
+- **An internal AI platform.** GitHub org, starter template and MCP servers for HubSpot, Slack and Atlassian, so colleagues outside engineering can ship their own agents.
 
-## Selected project
+### Public code
 
-[Wheel Decal Designer](https://github.com/stevendoerr-lachance/wheel-decal-designer) is a browser-based 3D configurator for bicycle rim decals. The live version uses Three.js and WebGPU; the public repository contains the geometry and print-export code with tests.
+Most of my work lives in private company repos. What is here:
 
-[Try the live version](https://www.stevendoerr.com/wheel-decal)
+- [wheel-decal-designer](https://github.com/stevendoerr-lachance/wheel-decal-designer): geometry and print export for a 3D rim decal configurator, in TypeScript with tests. [Live version](https://www.stevendoerr.com/wheel-decal)
 
-## Tools
+### Elsewhere
 
-`Python` `TypeScript / Next.js` `SQL` `Claude Code` `Anthropic SDK` `MCP` `n8n` `HubSpot` `Clay` `Docker` `Linux`
-
-## Links
-
-- [stevendoerr.com](https://stevendoerr.com): personal site and web experiments
-- [brimbreak.ai](https://brimbreak.ai): my marketing engineering studio
-- [pedalpartypassau.de](https://pedalpartypassau.de): the cycling club I help organize in Passau
-- [LinkedIn](https://www.linkedin.com/in/steven-dörr/)
-
-## Outside work
-
-I ride an Orbea Orca, maintain it myself, and help run Pedal Party Passau. I also rebuilt a 2006 Gaggia Classic with a custom touchscreen controller, print functional parts in ASA, and self-host more software than is strictly necessary.
+[stevendoerr.com](https://stevendoerr.com) · [LinkedIn](https://www.linkedin.com/in/steven-dörr/) · [pedalpartypassau.de](https://pedalpartypassau.de), a cycling event I organized
